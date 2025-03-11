@@ -1,8 +1,7 @@
 
 
-# 🏥 Welcome to My Hospital! 🏥
+# 🏥 Welcome to My Hospital webpage! 🏥
 
-![Hospital](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 Welcome to **My Hospital**, the one-stop solution for all your hospital management needs! 🩺💉 Whether you're a doctor, nurse, administrator, or just someone who got lost on the internet, we've got something here for you!
 
@@ -43,27 +42,6 @@ Getting started is easier than finding a Band-Aid in a hospital!
 - **Secure Data**: Because HIPAA is no laughing matter.
 - **Real-Time Updates**: Faster than a nurse's coffee break.
 - **Appointment Scheduling**: Never double-book again. Unless you really want to.
-
-## 📜 License
-
-This project is licensed under the MIT License. Because sharing is caring. ❤️
-
-## 🤝 Contributing
-
-We welcome contributions! Whether it's a bug fix, a new feature, or a funny joke to add to our README, we're all ears.
-
-## 👩‍⚕️ Meet the Team
-
-- **Dr. Code**: Chief Code Surgeon
-- **Nurse Byte**: Data Nurse
-- **Admin Array**: Scheduling Wizard
-- **Patient Zero**: Our first user (we think they like it here!)
-
-## 🏥 Join Us!
-
-Have an idea, a bug report, or just want to say hi? Open an issue or send us a pull request. We're here to make hospital management a little less painful and a lot more fun!
-
-![Stay Healthy](https://media.giphy.com/media/3o6Zt8MGpcU4pzA3Co/giphy.gif)
 
 Stay healthy, stay happy, and happy coding!
 
